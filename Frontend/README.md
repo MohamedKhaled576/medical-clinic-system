@@ -1,16 +1,31 @@
-# dental_frontend
+# Medical Clinic Management System
 
-A new Flutter project.
+Full stack medical clinic management system for tracking patients, medicines, stock, and sales.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+Backend
+- NestJS
+- Prisma
+- PostgreSQL
 
-A few resources to get you started if this is your first Flutter project:
+Frontend
+- Flutter
+- GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Patient profile & History
+- Manage medicines
+- Track stock levels
+- Record sales
+- Automatic stock updates
+- REST API backend
+- Cross-platform mobile frontend
+
+## Project Structure
+
+medical-clinic-system
+│
+├── backend → NestJS API
+└── frontend → Flutter application
