@@ -26,6 +26,5 @@ Frontend
 ## Project Structure
 
 medical-clinic-system
-│
-├── backend → NestJS API
-└── frontend → Flutter application
+backend → NestJS API
+frontend → Flutter application
